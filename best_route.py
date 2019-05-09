@@ -3,7 +3,7 @@
   Project 2 - finding the best route
   Program: best_route.py
   Author: Aghared Alyousif
-  Last date modified: 5/1/19
+  Last date modified: 5/8/19
 """
 import requests
 import json
@@ -94,5 +94,5 @@ if __name__ == "__main__":
     print(r.__str__())
 """
 output
-The lowest average temperature high of 68.03 is forecast for this route:Sedona:Flagstaff:Lake Havasu City:Tucson:Phoenix
+The lowest average temperature high of 68.03 is forecast for this route: Sedona:Flagstaff:Lake Havasu City:Tucson:Phoenix
 """
